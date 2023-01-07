@@ -3,155 +3,74 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 52,
+      "count": 1908,
       "max": [
-        1.2502670288085938,
-        0.43785899877548218,
-        -0.0021954551339149475
+        1.3271100521087646,
+        1.4240399599075317,
+        4.2720599174499512
       ],
       "min": [
-        -0.99999994039535522,
-        -0.43785899877548218,
-        -0.038878802210092545
+        -0.8131600022315979,
+        -2.5069200992584229,
+        0.0061699999496340752
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 624,
+      "byteOffset": 22896,
       "componentType": 5126,
-      "count": 52,
+      "count": 1908,
       "max": [
         1,
-        1,
+        0.99995416402816772,
         1
       ],
       "min": [
-        -0.57736170291900635,
         -1,
-        -1
+        -0.99993431568145752,
+        -0.99703025817871094
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 52,
+      "count": 1908,
       "max": [
         1,
-        1,
-        1,
+        0.99995303153991699,
+        0.99855870008468628,
         1
       ],
       "min": [
         -1,
-        -1,
-        -1,
-        1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "componentType": 5126,
-      "count": 52,
-      "max": [
-        0.78495514392852783,
-        0.97843527793884277
-      ],
-      "min": [
-        0.033502370119094849,
-        0.021564662456512451
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "componentType": 5125,
-      "count": 132,
-      "max": [
-        51
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1248,
-      "componentType": 5126,
-      "count": 1341,
-      "max": [
-        18.083080291748047,
-        0.23308104276657104,
-        6.7370123863220215
-      ],
-      "min": [
-        -0.5308719277381897,
-        -0.87181097269058228,
-        -0.30001795291900635
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 17340,
-      "componentType": 5126,
-      "count": 1341,
-      "max": [
-        1,
-        1,
-        1
-      ],
-      "min": [
-        -1,
-        -1,
-        -1
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 832,
-      "componentType": 5126,
-      "count": 1341,
-      "max": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "min": [
-        -1,
-        -1,
-        -1,
+        -0.99985939264297485,
+        -0.97860252857208252,
         -1
       ],
       "type": "VEC4"
     },
     {
       "bufferView": 1,
-      "byteOffset": 416,
       "componentType": 5126,
-      "count": 1341,
+      "count": 1908,
       "max": [
-        0.97578102350234985,
-        0.99449950456619263
+        0.76043999195098877,
+        0.97835999727249146
       ],
       "min": [
-        0.0042042201384902,
-        0.03531748428940773
+        0.07807999849319458,
+        0.0037299999967217445
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 528,
       "componentType": 5125,
-      "count": 4632,
+      "count": 2880,
       "max": [
-        1340
+        1907
       ],
       "min": [
         0
@@ -161,42 +80,42 @@
   ],
   "asset": {
     "extras": {
-      "author": "Ahmad Azizi (https://sketchfab.com/azizi16)",
+      "author": "nolanfa (https://sketchfab.com/nolanfa)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/models/738c6b55dfd8411fa8fc259342888f83",
-      "title": "Wooden Fence"
+      "source": "https://sketchfab.com/3d-models/photographer-8b11c87a4fff43e1892e44ff626b661d",
+      "title": "Photographer"
     },
-    "generator": "Sketchfab-3.39.2",
+    "generator": "Sketchfab-6.17.1",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 19056,
+      "byteLength": 11520,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 11144,
-      "byteOffset": 19056,
+      "byteLength": 15264,
+      "byteOffset": 11520,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 33432,
-      "byteOffset": 30200,
+      "byteLength": 45792,
+      "byteOffset": 26784,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 22288,
-      "byteOffset": 63632,
+      "byteLength": 30528,
+      "byteOffset": 72576,
       "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
@@ -204,104 +123,47 @@
   ],
   "buffers": [
     {
-      "byteLength": 85920,
+      "byteLength": 103104,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Material_normal.png"
-    },
-    {
-      "uri": "textures/Material_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Material_baseColor.jpeg"
-    },
-    {
-      "uri": "textures/Material.001_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Material.001_normal.png"
-    },
-    {
-      "uri": "textures/Material.001_baseColor.png"
+      "uri": "textures/Material_baseColor.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
       "emissiveFactor": [
-        0,
-        0,
-        0
+        1,
+        1,
+        1
       ],
-      "name": "Material",
-      "normalTexture": {
+      "emissiveTexture": {
         "index": 0,
-        "scale": 1,
         "texCoord": 0
       },
+      "name": "Material",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          1,
-          1,
-          1,
+          0.80000000000000004,
+          0.80000000000000004,
+          0.80000000000000004,
           1
         ],
         "baseColorTexture": {
-          "index": 2,
+          "index": 0,
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "metallicRoughnessTexture": {
-          "index": 1,
-          "texCoord": 0
-        },
-        "roughnessFactor": 1
-      }
-    },
-    {
-      "doubleSided": false,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "Material.001",
-      "normalTexture": {
-        "index": 4,
-        "scale": 1,
-        "texCoord": 0
-      },
-      "occlusionTexture": {
-        "index": 3,
-        "strength": 1,
-        "texCoord": 0
-      },
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1,
-          1,
-          1,
-          1
-        ],
-        "baseColorTexture": {
-          "index": 5,
-          "texCoord": 0
-        },
-        "metallicFactor": 0,
-        "metallicRoughnessTexture": {
-          "index": 3,
-          "texCoord": 0
-        },
-        "roughnessFactor": 1
+        "roughnessFactor": 0.59999999999999998
       }
     }
   ],
   "meshes": [
     {
-      "name": "ground_Material_0",
+      "name": "photographer.001_0",
       "primitives": [
         {
           "attributes": {
@@ -312,22 +174,6 @@
           },
           "indices": 4,
           "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "fence_Material.001_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
-          "material": 1,
           "mode": 4
         }
       ]
@@ -350,112 +196,23 @@
       "children": [
         2
       ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1.3485999943441129e-06,
-        0,
-        -3.0620000757153321e-07,
-        1
-      ],
       "name": "RootNode (model correction matrix)"
     },
     {
       "children": [
         3
       ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        -1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "name": "8d5c9df1def84e3d8f37b138ff224014.fbx"
+      "name": "Root"
     },
     {
       "children": [
         4
       ],
-      "name": "RootNode"
-    },
-    {
-      "children": [
-        5,
-        6
-      ],
-      "matrix": [
-        940.60790340395226,
-        0,
-        -90.501532786038567,
-        0,
-        -90.501532786038482,
-        -4.1305153065968902e-05,
-        -940.60790340395147,
-        0,
-        -3.9559477912938526e-06,
-        944.95172119140545,
-        -4.1115278938223568e-05,
-        0,
-        790.75933837890625,
-        0,
-        0,
-        1
-      ],
-      "name": "ground"
+      "name": "photographer.001"
     },
     {
       "mesh": 0,
-      "name": "ground_Material_0"
-    },
-    {
-      "children": [
-        7
-      ],
-      "matrix": [
-        0.1058255136013031,
-        -3.4694469519536134e-18,
-        -5.1698788284564218e-26,
-        0,
-        3.4694469519536134e-18,
-        0.1058255136013031,
-        -8.2718061255302767e-25,
-        0,
-        5.1698784644742652e-26,
-        8.2718055431588225e-25,
-        0.1058255061507225,
-        0,
-        -0.83682513236999512,
-        -7.4505805969238281e-09,
-        0,
-        1
-      ],
-      "name": "fence"
-    },
-    {
-      "mesh": 1,
-      "name": "fence_Material.001_0"
+      "name": "photographer.001_0"
     }
   ],
   "samplers": [
@@ -479,26 +236,6 @@
     {
       "sampler": 0,
       "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
-    },
-    {
-      "sampler": 0,
-      "source": 3
-    },
-    {
-      "sampler": 0,
-      "source": 4
-    },
-    {
-      "sampler": 0,
-      "source": 5
     }
   ]
 }
